@@ -1,0 +1,55 @@
+body{
+
+    background-color:gainsboro;
+    padding: 18px;
+   margin: 10px;
+    align-items: center;
+    justify-content: center;
+}
+*{
+    padding: 5px;
+}
+.container{    
+    margin: 0px auto;
+   
+    border: 0px;
+}
+
+p,h1{
+    padding: 5px 0px 0px 0px;
+    color: brown;
+}
+label{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 5px;
+    font-size: 20px;
+    font-weight: 400;
+    padding: 10px;
+   
+}
+#first-name,#last-name,#address,#pincode,#state,#country{
+    width: 300px;
+    border: 1px solid lightgray;
+    padding: 15px;
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#submit{
+    padding-top: 15px;
+    width: 300px;
+    background-color:black;
+    margin-top: 10px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+}
+th{
+    background-color: rgb(31, 30, 30);
+    color: white;
+    font-weight: 400;
+    font-size: 14px;
+    width:15%;
+    font-size: x-large;
+   
+}
